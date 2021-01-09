@@ -5,6 +5,7 @@ Virtuam Machine merupakan tiruan dari sebuah sistem komputer. VM menjadikan reso
 
 Container merupakan virtualisasi OS yang dapat membungkus suatu aplikasi beserta dependency dan evironmentnya. Setiap container ini memiliki process yang terisolir sehingga tidak mengganggu hostOS ataupun container lain. Prinsip dari container ini mirip dengan kontainer yang terdapat di kapal cargo dimana kapal cargo tersebut ibarat HostOS. Berbeda dengan VM, pengaturan resource lebih flexible dan scalable daripada VM dan juga tidak perlu menginstall OS di setiap kontainer.
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.weave.works%2Fblog%2Fa-practical-guide-to-choosing-between-docker-containers-and-vms&psig=AOvVaw1GhBc23i59BIOFfusYngzG&ust=1610265414017000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC_s6Kwju4CFQAAAAAdAAAAABAD)
 
 
 Perbedaan VM dan Container :

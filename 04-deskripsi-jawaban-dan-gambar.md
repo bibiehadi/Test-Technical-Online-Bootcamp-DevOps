@@ -8,3 +8,5 @@ Tahap CI/CD:
 4. Deploy 
 5. Integration Test
 6. Deploy To Production
+
+![](https://www.jagoanhosting.com/blog/wp-content/uploads/2020/05/gambar-2.png)
