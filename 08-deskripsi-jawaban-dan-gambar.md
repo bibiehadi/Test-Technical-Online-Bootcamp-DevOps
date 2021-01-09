@@ -1,4 +1,4 @@
-## SOAL 8
+## Soal 8
 Membuat Web Server Di MacOS, sebagai contoh (PHP)
 1. Membuka Terminal 
 2. login as root 

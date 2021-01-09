@@ -1,4 +1,4 @@
-## SOAL 7
+## Soal 7
 key pair merupakan key atau kunci yang digunakan untuk mengekripsi data, dan pair key terdiri dari public key dan private key. public key berfungsi untuk mengenkripsi data atau untuk mengekripsi data plain text ke data terenkripsi yang tidak mudah dibaca ,sedangkan private key untuk mendekrip atau mengubah data terenkripsi ke data awal (plain text) yang mudah dibaca.
 
 Cara kerja key pair :
